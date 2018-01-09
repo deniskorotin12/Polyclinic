@@ -2,9 +2,21 @@
   "users": [
     {
       "id": 1,
-      "email": "wfm@mail.ru",
-      "password": "12345678",
+      "email": "korotinmain@gmail.com",
+      "password": "11223344q4",
       "name": "Администратор"
+    },
+    {
+      "email": "deniskorotin4@gmail.com",
+      "password": "11223344q4",
+      "name": "Korotin Denys",
+      "id": 2
+    },
+    {
+      "email": "deniskorotin5@gmail.com",
+      "password": "11223344q4",
+      "name": "Denys",
+      "id": 3
     }
   ],
   "bill": {
