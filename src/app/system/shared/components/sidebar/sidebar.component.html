@@ -1,0 +1,28 @@
+<aside class="sidebar">
+  <div class="sidebar-container">
+    <div class="sidebar-header">
+      <div class="brand">
+        Поликлиника
+      </div>
+    </div>
+    <nav class="menu">
+      <ul class="nav metismenu">
+        <li routerLinkActive="active">
+          <a [routerLink]="['/system','card']">
+            <i class="material-icons">person</i>Карта
+          </a>
+        </li>
+        <li routerLinkActive="active">
+          <a [routerLink]="['/system','doctors']">
+            <i class="fa fa-user-md" aria-hidden="true"></i>Врачи
+          </a>
+        </li>
+        <li routerLinkActive="active">
+          <a [routerLink]="['/system','contacts']">
+            <i class="material-icons">perm_contact_calendar</i>Контакты
+          </a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</aside>

@@ -9,6 +9,9 @@ header{
     margin-bottom: 0.6em;
 }
 .auth-header{
-    box-shadow: 0 4px 8px 0 rgb(150, 151, 172), 0 6px 20px 0 gray;
+    box-shadow: 5px 4px 6px 0px;
     background-color: rgba(77, 140, 241, 0.685);
+}
+.auth-content{
+    box-shadow: 5px 4px 6px 0px;
 }

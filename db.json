@@ -11,6 +11,12 @@
       "password": "11223344q4",
       "name": "Korotin Denys",
       "id": 2
+    },
+    {
+      "email": "deniskorotin24@gmail.com",
+      "password": "11223344",
+      "name": "Denys",
+      "id": 3
     }
   ],
   "bill": {
